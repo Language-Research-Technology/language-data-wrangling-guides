@@ -1,0 +1,145 @@
+[
+  {
+    "objectID": "data_format_reference/index.html",
+    "href": "data_format_reference/index.html",
+    "title": "Language data formats reference",
+    "section": "",
+    "text": "explain scope\n\n\n\n\n\n\n   \n    \n    \n      Order By\n      Default\n      \n        Title\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\nTitle\n\n\n\nSubtitle\n\n\n\nCategories\n\n\n\n\n\n\n\n\nCSV\n\n\nComma separated values\n\n\nplaintext, tabular\n\n\n\n\n\n\nEAF (ELAN)\n\n\nELAN files: .eaf, …\n\n\naudio transcription\n\n\n\n\n\n\nNo matching items",
+    "crumbs": [
+      "Data Formats Reference",
+      "Language data formats reference"
+    ]
+  },
+  {
+    "objectID": "data_format_reference/formats/csv.html",
+    "href": "data_format_reference/formats/csv.html",
+    "title": "CSV",
+    "section": "",
+    "text": "What is it?"
+  },
+  {
+    "objectID": "data_format_reference/formats/csv.html#examples",
+    "href": "data_format_reference/formats/csv.html#examples",
+    "title": "CSV",
+    "section": "Examples",
+    "text": "Examples"
+  },
+  {
+    "objectID": "data_format_reference/formats/csv.html#what-uses-this-format",
+    "href": "data_format_reference/formats/csv.html#what-uses-this-format",
+    "title": "CSV",
+    "section": "What uses this format",
+    "text": "What uses this format\n\nR\n\n\nPython\n\n\nCommon tools\n\n\nLinks and resources"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Language Data Wrangling Guides",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  },
+  {
+    "objectID": "readme.html",
+    "href": "readme.html",
+    "title": "Language Data Wrangling Guides",
+    "section": "",
+    "text": "NOTE: at present (5 June 2026) this material is such a rough sketch it doesn’t even count as a first draft. Significant change is expected, all feedback and suggestions are welcome.\nThis is the source for a website for technical and dataset design guidance for researchers and research software developers working with language data.\n\n\nThis website is written in Quarto. It is currently in the very early draft stages. Contributions from within LDACA are welcome at this stage, but while the overall structure and plan is still in flux things will probably be easiest if you coordinate your changes with Betsy (e.alpert@uq.edu.au), Sam, or Simon.\n\n\n\nInstructions TBD. Probably some process involving quarto publish.\n\n\n\nTBA\nAll material (so far at least) is by the Language Data Commons of Australia."
+  },
+  {
+    "objectID": "readme.html#editing",
+    "href": "readme.html#editing",
+    "title": "Language Data Wrangling Guides",
+    "section": "",
+    "text": "This website is written in Quarto. It is currently in the very early draft stages. Contributions from within LDACA are welcome at this stage, but while the overall structure and plan is still in flux things will probably be easiest if you coordinate your changes with Betsy (e.alpert@uq.edu.au), Sam, or Simon."
+  },
+  {
+    "objectID": "readme.html#publishing",
+    "href": "readme.html#publishing",
+    "title": "Language Data Wrangling Guides",
+    "section": "",
+    "text": "Instructions TBD. Probably some process involving quarto publish."
+  },
+  {
+    "objectID": "readme.html#citation-licensing-copyright",
+    "href": "readme.html#citation-licensing-copyright",
+    "title": "Language Data Wrangling Guides",
+    "section": "",
+    "text": "TBA\nAll material (so far at least) is by the Language Data Commons of Australia."
+  },
+  {
+    "objectID": "data_modelling/articles/granularity.html",
+    "href": "data_modelling/articles/granularity.html",
+    "title": "Granularity in language data",
+    "section": "",
+    "text": "Various thoughts about breaking text into pieces"
+  },
+  {
+    "objectID": "data_preparation_workbench/index.html",
+    "href": "data_preparation_workbench/index.html",
+    "title": "Language Data Preparation Workbench",
+    "section": "",
+    "text": "Introduction! and Overview! Table of contents??\nHow to convert between data formats",
+    "crumbs": [
+      "Data Preparation Workbench",
+      "Language Data Preparation Workbench"
+    ]
+  },
+  {
+    "objectID": "data_preparation_workbench/conversion.html",
+    "href": "data_preparation_workbench/conversion.html",
+    "title": "Converting between data formats",
+    "section": "",
+    "text": "…",
+    "crumbs": [
+      "Data Preparation Workbench",
+      "How To Guides",
+      "Converting between data formats"
+    ]
+  },
+  {
+    "objectID": "data_modelling/index.html",
+    "href": "data_modelling/index.html",
+    "title": "Language Data Modelling Guide",
+    "section": "",
+    "text": "A variety of articles and discussions on modelling language data. Not sure where to start? Try What is Data Modelling?\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWhat is data modeling?\n\n\n\ngetting_started\n\n\n\n\n\n\n\n\n\nElizabeth Alpert, Sam Hames\n\n\n\n\n\n\n\n\n\n\n\n\nGranularity in language data\n\n\n\ndiscussion\n\n\n\n\n\n\n\n\n\nSam Hames, Elzabeth Alpert\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "data_format_reference/formats/elan.html",
+    "href": "data_format_reference/formats/elan.html",
+    "title": "EAF (ELAN)",
+    "section": "",
+    "text": "What is it?"
+  },
+  {
+    "objectID": "data_format_reference/formats/elan.html#examples",
+    "href": "data_format_reference/formats/elan.html#examples",
+    "title": "EAF (ELAN)",
+    "section": "Examples",
+    "text": "Examples"
+  },
+  {
+    "objectID": "data_format_reference/formats/elan.html#what-uses-this-format",
+    "href": "data_format_reference/formats/elan.html#what-uses-this-format",
+    "title": "EAF (ELAN)",
+    "section": "What uses this format",
+    "text": "What uses this format\n\nR\n\n\nPython\n\n\nCommon tools\n\n\nLinks and resources"
+  },
+  {
+    "objectID": "data_format_reference/types.html",
+    "href": "data_format_reference/types.html",
+    "title": "Types of language data formats",
+    "section": "",
+    "text": "Introduction\n\nOpen/closed\n\n\nTabular/document-oriented\n\n\nHuman-readable/machine-readable\n\n\nText/audio/video",
+    "crumbs": [
+      "Data Formats Reference",
+      "Types of language data formats"
+    ]
+  }
+]
