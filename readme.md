@@ -6,7 +6,7 @@ This is the source for a website for technical and dataset design guidance for r
 
 ## Editing
 
-This website is written in [Quarto](https://quarto.org/). It is currently in the very early draft stages. Contributions from within LDACA are welcome at this stage, but while the overall structure and plan is still in flux things will probably be easiest if you coordinate your changes with Betsy (e.alpert@uq.edu.au, @betsybookworm), Sam, or Simon.
+This website is written in [Quarto](https://quarto.org/). It is currently in the very early draft stages. Contributions from within LDACA are welcome at this stage, but while the overall structure and plan is still in flux things will probably be easiest if you coordinate your changes with Betsy (e.alpert@uq.edu.au), Sam, or Simon.
 
 ## Publishing
 
