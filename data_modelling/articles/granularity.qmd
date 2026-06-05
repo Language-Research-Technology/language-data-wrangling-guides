@@ -1,0 +1,10 @@
+---
+title: Granularity in language data
+categories:
+  - discussion
+author:
+  - Sam Hames
+  - Elzabeth Alpert
+---
+
+Various thoughts about breaking text into pieces

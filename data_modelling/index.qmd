@@ -1,0 +1,9 @@
+---
+title: Language Data Modelling Guide
+listing:
+  contents: articles
+  categories: true
+  sort: date desc
+---
+
+A variety of articles and discussions on modelling language data. Not sure where to start? Try [What is Data Modelling?](data_modelling/articles/what_is_data_modelling.qmd)

@@ -1,0 +1,21 @@
+---
+title: "EAF (ELAN)"
+subtitle: "ELAN files: .eaf, ..."
+categories:
+  - "audio transcription"
+---
+
+What is it?
+
+## Examples
+
+## What uses this format
+
+### R 
+
+### Python
+
+### Common tools
+
+### Links and resources
+

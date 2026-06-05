@@ -1,0 +1,14 @@
+---
+title: "Types of language data formats"
+---
+
+Introduction
+
+### Open/closed
+
+### Tabular/document-oriented
+
+### Human-readable/machine-readable
+
+### Text/audio/video
+

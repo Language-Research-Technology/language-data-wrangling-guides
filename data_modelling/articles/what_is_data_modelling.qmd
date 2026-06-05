@@ -1,0 +1,10 @@
+---
+title: "What is data modeling?"
+author:
+  - "Elizabeth Alpert"
+  - "Sam Hames"
+categories:
+  - getting_started
+---
+
+

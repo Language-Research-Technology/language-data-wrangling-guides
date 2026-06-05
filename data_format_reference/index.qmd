@@ -1,0 +1,12 @@
+---
+title: "Language data formats reference"
+listing:
+  contents: formats
+  type: table
+  sort: title
+  categories: true
+  fields: [title, subtitle, categories]
+---
+
+explain scope
+

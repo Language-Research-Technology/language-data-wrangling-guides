@@ -1,0 +1,45 @@
+project:
+  type: website
+
+website:
+  title: "Language Data Wrangling Guides"
+  navbar:
+    left:
+      - data_modelling/index.qmd
+      - text: "Data Preparation Workbench"
+        href: data_preparation_workbench/index.qmd
+      - text: "Data Formats Reference"
+        href: data_format_reference/index.qmd
+    right:
+      - about.qmd
+      - href: https://www.ldaca.edu.au
+        text: LDACA
+  search: true
+  sidebar:
+    - title: "Data Preparation Workbench"
+      contents:
+      - data_preparation_workbench/index.qmd
+      - section: "Getting Started Guides"
+        contents:
+        - "Choosing a format for working data"
+      - section: "How To Guides"
+        contents:
+        - data_preparation_workbench/conversion.qmd
+        - data_preparation_workbench/wrangling.qmd
+        - data_preparation_workbench/publishing_archiving.qmd
+        - data_preparation_workbench/automating.qmd
+    - title: "Data Formats Reference"
+      contents:
+      - data_format_reference/index.qmd
+      - data_format_reference/types.qmd
+
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+    css: styles.css
+    toc: true
+
+
+
