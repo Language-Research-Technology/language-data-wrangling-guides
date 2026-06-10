@@ -1,5 +1,28 @@
 [
   {
+    "objectID": "data_preparation_workbench/conversion.html",
+    "href": "data_preparation_workbench/conversion.html",
+    "title": "Converting between data formats",
+    "section": "",
+    "text": "…",
+    "crumbs": [
+      "Data Preparation Workbench",
+      "How To Guides",
+      "Converting between data formats"
+    ]
+  },
+  {
+    "objectID": "data_preparation_workbench/index.html",
+    "href": "data_preparation_workbench/index.html",
+    "title": "Language Data Preparation Workbench",
+    "section": "",
+    "text": "Introduction! and Overview! Table of contents??\nHow to convert between data formats",
+    "crumbs": [
+      "Data Preparation Workbench",
+      "Language Data Preparation Workbench"
+    ]
+  },
+  {
     "objectID": "data_format_reference/index.html",
     "href": "data_format_reference/index.html",
     "title": "Language data formats reference",
@@ -39,6 +62,27 @@
     "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
   },
   {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "data_modelling/articles/granularity.html",
+    "href": "data_modelling/articles/granularity.html",
+    "title": "Granularity in language data",
+    "section": "",
+    "text": "Various thoughts about breaking text into pieces"
+  },
+  {
+    "objectID": "data_modelling/index.html",
+    "href": "data_modelling/index.html",
+    "title": "Language Data Modelling Guide",
+    "section": "",
+    "text": "A variety of articles and discussions on modelling language data. Not sure where to start? Try What is Data Modelling?\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGranularity in language data\n\n\n\ndiscussion\n\n\n\n\n\n\n\n\n\nSam Hames, Elzabeth Alpert\n\n\n\n\n\n\n\n\n\n\n\n\nWhat is data modeling?\n\n\n\ngetting_started\n\n\n\n\n\n\n\n\n\nElizabeth Alpert, Sam Hames\n\n\n\n\n\nNo matching items"
+  },
+  {
     "objectID": "readme.html",
     "href": "readme.html",
     "title": "Language Data Wrangling Guides",
@@ -65,50 +109,6 @@
     "title": "Language Data Wrangling Guides",
     "section": "",
     "text": "TBA\nAll material (so far at least) is by the Language Data Commons of Australia."
-  },
-  {
-    "objectID": "data_modelling/articles/granularity.html",
-    "href": "data_modelling/articles/granularity.html",
-    "title": "Granularity in language data",
-    "section": "",
-    "text": "Various thoughts about breaking text into pieces"
-  },
-  {
-    "objectID": "data_preparation_workbench/index.html",
-    "href": "data_preparation_workbench/index.html",
-    "title": "Language Data Preparation Workbench",
-    "section": "",
-    "text": "Introduction! and Overview! Table of contents??\nHow to convert between data formats",
-    "crumbs": [
-      "Data Preparation Workbench",
-      "Language Data Preparation Workbench"
-    ]
-  },
-  {
-    "objectID": "data_preparation_workbench/conversion.html",
-    "href": "data_preparation_workbench/conversion.html",
-    "title": "Converting between data formats",
-    "section": "",
-    "text": "…",
-    "crumbs": [
-      "Data Preparation Workbench",
-      "How To Guides",
-      "Converting between data formats"
-    ]
-  },
-  {
-    "objectID": "data_modelling/index.html",
-    "href": "data_modelling/index.html",
-    "title": "Language Data Modelling Guide",
-    "section": "",
-    "text": "A variety of articles and discussions on modelling language data. Not sure where to start? Try What is Data Modelling?\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWhat is data modeling?\n\n\n\ngetting_started\n\n\n\n\n\n\n\n\n\nElizabeth Alpert, Sam Hames\n\n\n\n\n\n\n\n\n\n\n\n\nGranularity in language data\n\n\n\ndiscussion\n\n\n\n\n\n\n\n\n\nSam Hames, Elzabeth Alpert\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site"
   },
   {
     "objectID": "data_format_reference/formats/elan.html",
@@ -140,6 +140,17 @@
     "crumbs": [
       "Data Formats Reference",
       "Types of language data formats"
+    ]
+  },
+  {
+    "objectID": "data_preparation_workbench/guide_to_text.html",
+    "href": "data_preparation_workbench/guide_to_text.html",
+    "title": "Guide to text-based data",
+    "section": "",
+    "text": "Here’s an orientation to text-based data formats, processes, and tools",
+    "crumbs": [
+      "Data Preparation Workbench",
+      "Guide to text-based data"
     ]
   }
 ]
