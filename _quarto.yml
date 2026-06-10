@@ -19,9 +19,13 @@ website:
     - title: "Data Preparation Workbench"
       contents:
       - data_preparation_workbench/index.qmd
+      - data_preparation_workbench/guide_to_text.qmd
+      - data_preparation_workbench/guide_to_audio.qmd
       - section: "Getting Started Guides"
         contents:
-        - "Choosing a format for working data"
+        - data_preparation_workbench/choosing_a_format_for_working.qmd
+        - data_preparation_workbench/choosing_a_format_for_publishing.qmd
+        - data_preparation_workbench/choosing_a_format_for_archiving.qmd
       - section: "How To Guides"
         contents:
         - data_preparation_workbench/conversion.qmd
