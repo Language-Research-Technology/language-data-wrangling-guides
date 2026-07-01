@@ -1,16 +1,16 @@
 [
   {
-    "listing": "/data_format_reference/index.html",
-    "items": [
-      "/data_format_reference/formats/csv.html",
-      "/data_format_reference/formats/elan.html"
-    ]
-  },
-  {
     "listing": "/data_modelling/index.html",
     "items": [
       "/data_modelling/articles/granularity.html",
       "/data_modelling/articles/what_is_data_modelling.html"
+    ]
+  },
+  {
+    "listing": "/data_format_reference/index.html",
+    "items": [
+      "/data_format_reference/formats/csv.html",
+      "/data_format_reference/formats/elan.html"
     ]
   }
 ]
