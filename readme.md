@@ -8,9 +8,14 @@ This is the source for a website for technical and dataset design guidance for r
 
 This website is written in [Quarto](https://quarto.org/). It is currently in the very early draft stages. Contributions from within LDACA are welcome at this stage, but while the overall structure and plan is still in flux things will probably be easiest if you coordinate your changes with Betsy (e.alpert@uq.edu.au), Sam, or Simon.
 
+To preview your changes on your local machine, use `quarto preview` for a live site that will update as you make changes (when you save the files), or `quarto render` to fully build the output static pages in the same way as the publishing does.
+
+Note: do not commit any rendered output files to git, they will not be used in the actual site and will just make for merge conflicts in future.
+
+
 ## Publishing
 
-Instructions TBD. Probably some process involving [quarto publish](https://quarto.org/docs/publishing/github-pages.html#publish-command).
+Automatic rendering and publishing of the website is set up using [quarto publish](https://quarto.org/docs/publishing/github-pages.html#publish-command) and GitHub actions. When you push or merge a commit onto the `main` branch of the GitHub repository, a GitHub action will immediately render the site and save it to the `gh-pages` branch of the repository, which is what is used for the GitHub Pages-hosted website. Do not directly edit files in the `gh-pages` branch, those changes will be lost when the site is next updated.
 
 ## Citation, Licensing, Copyright
 
